@@ -23,9 +23,10 @@ normalize=function(prob){
 
 ## Read data
 odds=read.csv("odds.csv",stringsAsFactors = FALSE)
-hst=read.csv("historic.csv",stringsAsFactors = FALSE)%>%
+#hst=read.csv("historic.csv",stringsAsFactors = FALSE)%>%
+ # mutate(key=paste0(Home,Away))
+hst=read.csv("ScrapHistoric.csv",stringsAsFactors = FALSE,row.names = 1)%>%
   mutate(key=paste0(Home,Away))
-
 
 
 dir.params=data.frame()
