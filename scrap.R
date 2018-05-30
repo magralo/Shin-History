@@ -13,7 +13,7 @@ matchs=read.csv("odds.csv",stringsAsFactors = FALSE)%>%
 matchs$p1=0
 matchs$p2=0
 matchs$p3=0
-for (i in 29:nrow(matchs)){
+for (i in 1:nrow(matchs)){
   link=matchs$link[i]
   print(link)
 text=read_html(link) %>% 
@@ -31,6 +31,6 @@ if(length(text)>0){
 
 }
 matchs=matchs%>%
-  select(Home,Away,p1,p2,p3)
+  select(HomeTeam,AwayTeam,p1,p2,p3)
 colnames(matchs)[1:2]=c("Home","Away")
 write.csv(matchs,"ScrapHistoric.csv")
