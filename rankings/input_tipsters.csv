@@ -1,0 +1,761 @@
+Date,HomeTeam,AwayTeam,Resutado,B365H,B365D,B365A
+1/1/13,Arsenal,Aston Villa,3,1.44,4.75,8
+1/1/13,Liverpool,Stoke,1,1.4,5,9.5
+1/1/13,Norwich,Everton,2,3.2,3.4,2.4
+1/1/13,Sunderland,Fulham,3,2.3,3.4,3.4
+1/1/13,Swansea,Man United,3,4.2,3.5,2
+1/1/13,West Brom,Southampton,3,2.4,3.4,3.2
+1/1/13,West Ham,Cardiff,1,2,3.6,4
+1/8/13,Chelsea,Hull,1,1.2,7,21
+1/8/13,Crystal Palace,Tottenham,3,4.75,3.75,1.83
+1/8/13,Man City,Newcastle,1,1.33,5.5,11
+1/8/13,Chelsea,Aston Villa,1,1.29,5.5,10
+1/8/13,Aston Villa,Liverpool,3,4,3.75,1.95
+1/8/13,Everton,West Brom,2,1.57,4.33,6.5
+1/8/13,Fulham,Arsenal,3,3.8,3.5,2.1
+1/15/13,Hull,Norwich,1,2.45,3.4,3.1
+1/15/13,Newcastle,West Ham,2,2.3,3.4,3.4
+1/15/13,Southampton,Sunderland,2,1.73,3.8,5.5
+1/15/13,Stoke,Crystal Palace,1,1.83,3.6,5
+1/15/13,Cardiff,Man City,1,8.5,4.75,1.44
+1/15/13,Tottenham,Swansea,1,1.62,4,6.5
+1/15/13,Man United,Chelsea,2,2.45,3.4,3.1
+1/22/13,Cardiff,Everton,2,3.25,3.4,2.38
+1/22/13,Crystal Palace,Sunderland,1,2.6,3.3,3
+1/22/13,Man City,Hull,1,1.17,8.5,19
+1/22/13,Newcastle,Fulham,1,2.15,3.4,3.75
+1/22/13,Norwich,Southampton,1,3,3.3,2.55
+1/22/13,West Ham,Stoke,3,2,3.4,4.33
+1/22/13,Arsenal,Tottenham,1,2.1,3.7,3.6
+1/29/13,Liverpool,Man United,1,2.63,3.4,2.88
+1/29/13,West Brom,Swansea,3,2.7,3.4,2.8
+1/29/13,Aston Villa,Newcastle,3,2.15,3.4,3.8
+1/29/13,Everton,Chelsea,1,3.4,3.3,2.35
+1/29/13,Fulham,West Brom,2,2.15,3.5,3.6
+1/29/13,Hull,Cardiff,2,2.45,3.25,3.25
+1/29/13,Man United,Crystal Palace,1,1.22,7,16
+2/5/13,Stoke,Man City,2,6,4,1.65
+2/5/13,Sunderland,Arsenal,3,6,3.9,1.67
+2/5/13,Tottenham,Norwich,1,1.45,4.75,8
+2/5/13,Southampton,West Ham,2,1.85,3.6,4.75
+2/5/13,Swansea,Liverpool,2,3.5,3.5,2.2
+2/5/13,Chelsea,Fulham,1,1.3,5.75,12
+2/5/13,Liverpool,Southampton,3,1.6,4,6.5
+2/12/13,Newcastle,Hull,3,1.85,3.5,5
+2/12/13,Norwich,Aston Villa,3,2.4,3.4,3.2
+2/12/13,West Brom,Sunderland,1,2.05,3.4,4.2
+2/12/13,West Ham,Everton,3,3.3,3.3,2.4
+2/12/13,Arsenal,Stoke,1,1.36,5.25,10
+2/12/13,Cardiff,Tottenham,3,4.5,3.6,1.91
+2/12/13,Crystal Palace,Swansea,3,3.5,3.4,2.25
+2/19/13,Man City,Man United,1,2.2,3.4,3.6
+2/19/13,Aston Villa,Man City,1,6.5,4.2,1.57
+2/19/13,Fulham,Cardiff,3,2.1,3.4,3.9
+2/19/13,Hull,West Ham,1,2.38,3.3,3.3
+2/19/13,Man United,West Brom,3,1.3,5.75,12
+2/19/13,Southampton,Crystal Palace,1,1.45,4.5,8.5
+2/19/13,Swansea,Arsenal,3,3.2,3.4,2.38
+2/26/13,Tottenham,Chelsea,2,2.7,3.3,2.88
+2/26/13,Stoke,Norwich,3,1.95,3.4,4.5
+2/26/13,Sunderland,Liverpool,3,5.5,3.9,1.7
+2/26/13,Everton,Newcastle,1,1.65,4,6
+2/26/13,Cardiff,Newcastle,3,2.45,3.4,3.1
+2/26/13,Fulham,Stoke,1,2.4,3.3,3.3
+2/26/13,Hull,Aston Villa,2,2.45,3.3,3.2
+3/5/13,Liverpool,Crystal Palace,1,1.2,7.5,17
+3/5/13,Man City,Everton,1,1.67,4.2,5.5
+3/5/13,Sunderland,Man United,3,6,4,1.65
+3/5/13,Norwich,Chelsea,3,6.5,4,1.62
+3/5/13,Southampton,Swansea,1,2.1,3.5,3.8
+3/5/13,Tottenham,West Ham,3,1.44,4.75,8.5
+3/5/13,West Brom,Arsenal,2,4.9,4,1.75
+3/12/13,Arsenal,Norwich,1,1.29,6,12
+3/12/13,Chelsea,Cardiff,1,1.25,6.5,15
+3/12/13,Everton,Hull,1,1.45,4.5,9
+3/12/13,Man United,Southampton,2,1.57,4.33,6.5
+3/12/13,Newcastle,Liverpool,2,4.5,3.9,1.83
+3/12/13,Stoke,West Brom,2,2.3,3.3,3.5
+3/12/13,Swansea,Sunderland,1,1.62,4,6.5
+3/19/13,West Ham,Man City,3,5.5,3.8,1.73
+3/19/13,Aston Villa,Tottenham,3,4,3.5,2.05
+3/19/13,Crystal Palace,Fulham,3,2.75,3.3,2.8
+3/19/13,Aston Villa,Everton,3,3.4,3.4,2.3
+3/19/13,Crystal Palace,Arsenal,3,11,5,1.36
+3/19/13,Liverpool,West Brom,1,1.44,4.75,8
+3/19/13,Man United,Stoke,1,1.33,5.5,11
+3/26/13,Norwich,Cardiff,2,2.2,3.4,3.6
+3/26/13,Southampton,Fulham,1,1.62,4,6.5
+3/26/13,Chelsea,Man City,1,2.38,3.4,3.2
+3/26/13,Sunderland,Newcastle,1,2.9,3.3,2.63
+3/26/13,Swansea,West Ham,2,1.75,3.8,5.25
+3/26/13,Tottenham,Hull,1,1.44,4.75,8
+3/26/13,Arsenal,Liverpool,1,2.3,3.5,3.3
+4/2/13,Fulham,Man United,3,6.5,4.2,1.57
+4/2/13,Hull,Sunderland,1,2.15,3.4,3.8
+4/2/13,Man City,Norwich,1,1.2,7.5,18
+4/2/13,Newcastle,Chelsea,1,6,4.2,1.62
+4/2/13,Stoke,Southampton,2,3.3,3.3,2.4
+4/2/13,West Brom,Crystal Palace,1,1.55,4.2,7
+4/2/13,West Ham,Aston Villa,2,2.25,3.5,3.4
+4/9/13,Cardiff,Swansea,1,3.4,3.4,2.3
+4/9/13,Everton,Tottenham,2,2.5,3.4,3
+4/9/13,Aston Villa,Cardiff,1,2,3.5,4.2
+4/9/13,Chelsea,West Brom,2,1.29,6,12
+4/9/13,Crystal Palace,Everton,2,6.5,4,1.62
+4/9/13,Liverpool,Fulham,1,1.25,6.5,15
+4/9/13,Norwich,West Ham,1,2.63,3.3,2.9
+4/16/13,Southampton,Hull,1,1.62,3.8,7
+4/16/13,Man United,Arsenal,1,2.35,3.5,3.2
+4/16/13,Sunderland,Man City,1,9,5,1.4
+4/16/13,Swansea,Stoke,2,2,3.4,4.33
+4/16/13,Tottenham,Newcastle,3,1.57,4.33,6.5
+4/16/13,Arsenal,Southampton,1,1.62,4.2,6
+4/16/13,Everton,Liverpool,2,3,3.4,2.5
+4/23/13,Fulham,Swansea,3,3.3,3.3,2.38
+4/23/13,Hull,Crystal Palace,3,1.85,3.5,5
+4/23/13,Newcastle,Norwich,1,1.8,3.8,4.75
+4/23/13,Stoke,Sunderland,1,2.15,3.3,3.9
+4/23/13,West Ham,Chelsea,3,6,4.2,1.62
+4/23/13,Cardiff,Man United,2,6,4,1.65
+4/23/13,Man City,Tottenham,1,1.7,4,5.5
+4/30/13,West Brom,Aston Villa,2,2.15,3.4,3.8
+4/30/13,Aston Villa,Sunderland,2,2,3.4,4.33
+4/30/13,Cardiff,Arsenal,3,6.5,4,1.62
+4/30/13,Everton,Stoke,1,1.62,4,6.25
+4/30/13,Newcastle,West Brom,1,2.05,3.5,4
+4/30/13,Norwich,Crystal Palace,1,2,3.4,4.33
+4/30/13,West Ham,Fulham,1,1.91,3.5,4.6
+5/7/13,Chelsea,Southampton,1,1.57,4.2,6.5
+5/7/13,Hull,Liverpool,1,6.5,4,1.62
+5/7/13,Man City,Swansea,1,1.29,6,13
+5/7/13,Tottenham,Man United,2,2.8,3.5,2.63
+5/7/13,Crystal Palace,West Ham,1,3.25,3.3,2.4
+5/7/13,Arsenal,Hull,1,1.2,7.5,17
+5/7/13,Fulham,Tottenham,3,5.8,3.9,1.67
+5/14/13,Liverpool,Norwich,1,1.29,6,12
+5/14/13,Man United,Everton,3,1.73,3.75,5.5
+5/14/13,Southampton,Aston Villa,3,1.7,3.8,5.75
+5/14/13,Stoke,Cardiff,2,2.1,3.4,4
+5/14/13,Sunderland,Chelsea,3,6.5,4.33,1.55
+5/14/13,Swansea,Newcastle,1,2.2,3.5,3.5
+5/14/13,West Brom,Man City,3,6,4.2,1.62
+5/21/13,Crystal Palace,Cardiff,1,2.8,3.3,2.75
+5/21/13,Liverpool,West Ham,1,1.29,6,12
+5/21/13,Man United,Newcastle,3,1.53,4.33,7
+5/21/13,Southampton,Man City,2,5.25,3.8,1.75
+5/21/13,Stoke,Chelsea,1,6.5,4.2,1.57
+5/21/13,Sunderland,Tottenham,3,4.5,3.6,1.91
+5/21/13,West Brom,Norwich,3,1.8,3.75,5
+5/28/13,Arsenal,Everton,2,1.7,3.8,5.75
+5/28/13,Fulham,Aston Villa,1,2.75,3.3,2.8
+5/28/13,Swansea,Hull,2,1.75,3.75,5.5
+5/28/13,Cardiff,West Brom,1,2.63,3.4,2.88
+5/28/13,Chelsea,Crystal Palace,1,1.18,8,19
+5/28/13,Everton,Fulham,1,1.36,5,10.5
+5/28/13,Hull,Stoke,2,2.3,3.3,3.5
+6/4/13,Man City,Arsenal,1,1.83,3.75,4.75
+6/4/13,Newcastle,Southampton,2,2.4,3.4,3.2
+6/4/13,West Ham,Sunderland,2,1.95,3.6,4.33
+6/4/13,Aston Villa,Man United,3,5.25,3.8,1.75
+6/4/13,Norwich,Swansea,2,2.88,3.3,2.7
+6/4/13,Tottenham,Liverpool,3,2.5,3.4,3
+6/4/13,Crystal Palace,Newcastle,3,3.25,3.4,2.38
+6/11/13,Fulham,Man City,3,9.5,5.25,1.36
+6/11/13,Liverpool,Cardiff,1,1.2,7.5,16
+6/11/13,Man United,West Ham,1,1.36,5.25,10
+6/11/13,Stoke,Aston Villa,1,2.3,3.25,3.5
+6/11/13,Sunderland,Norwich,2,2.05,3.5,4
+6/11/13,West Brom,Hull,2,1.95,3.5,4.5
+6/11/13,Southampton,Tottenham,3,2.55,3.3,3
+6/18/13,Swansea,Everton,3,3,3.4,2.5
+6/18/13,Arsenal,Chelsea,2,2.38,3.4,3.25
+6/18/13,Aston Villa,Crystal Palace,3,1.91,3.5,4.5
+6/18/13,Cardiff,Southampton,3,3.3,3.3,2.38
+6/18/13,Chelsea,Swansea,1,1.33,5.5,10
+6/18/13,Everton,Sunderland,3,1.36,5.25,9.5
+6/18/13,Hull,Man United,3,7,4.2,1.55
+6/25/13,Man City,Liverpool,1,1.75,4.2,4.6
+6/25/13,Newcastle,Stoke,1,1.75,3.8,5.25
+6/25/13,Norwich,Fulham,3,2.05,3.5,4
+6/25/13,Tottenham,West Brom,2,1.53,4.33,7
+6/25/13,West Ham,Arsenal,3,6.5,4,1.62
+6/25/13,Aston Villa,Swansea,2,3,3.3,2.55
+6/25/13,Cardiff,Sunderland,2,2.38,3.25,3.4
+7/2/13,Hull,Fulham,1,2.05,3.4,4.1
+7/2/13,Man City,Crystal Palace,1,1.13,9.5,29
+7/2/13,Norwich,Man United,3,6.5,4.2,1.57
+7/2/13,West Ham,West Brom,2,2.38,3.4,3.25
+7/2/13,Chelsea,Liverpool,1,2.2,3.5,3.5
+7/2/13,Everton,Southampton,1,1.83,3.7,4.75
+7/2/13,Newcastle,Arsenal,3,4,3.7,2
+7/9/13,Tottenham,Stoke,1,1.44,4.33,8
+7/9/13,Arsenal,Cardiff,1,1.29,6,13
+7/9/13,Crystal Palace,Norwich,2,2.38,3.3,3.3
+7/9/13,Fulham,West Ham,1,2.5,3.3,3.1
+7/9/13,Liverpool,Hull,1,1.3,6,11
+7/9/13,Man United,Tottenham,3,1.8,3.8,4.75
+7/9/13,Southampton,Chelsea,3,4,3.5,2.05
+7/16/13,Stoke,Everton,2,4,3.3,2.1
+7/16/13,Sunderland,Aston Villa,3,2.15,3.4,3.75
+7/16/13,Swansea,Man City,3,5.75,4.25,1.62
+7/16/13,West Brom,Newcastle,1,2.6,3.4,2.88
+7/16/13,Cardiff,West Ham,3,2,3.5,4.1
+7/16/13,Everton,Norwich,1,1.4,5,9
+7/16/13,Fulham,Sunderland,3,2.2,3.3,3.75
+7/23/13,Hull,Chelsea,3,6.5,4,1.6
+7/23/13,Man United,Swansea,1,1.57,4,7
+7/23/13,Southampton,West Brom,1,1.83,3.7,4.75
+7/23/13,Tottenham,Crystal Palace,1,1.36,5,10
+7/23/13,Newcastle,Man City,3,5.25,4,1.7
+7/23/13,Stoke,Liverpool,3,5.75,4,1.67
+7/23/13,Aston Villa,Arsenal,3,6,4.2,1.62
+7/30/13,Arsenal,Fulham,1,1.22,7,15
+7/30/13,Crystal Palace,Stoke,1,2.35,3.2,3.5
+7/30/13,Liverpool,Aston Villa,2,1.22,7,15
+7/30/13,Man City,Cardiff,1,1.13,11,23
+7/30/13,Norwich,Hull,1,2.4,3.3,3.25
+7/30/13,Sunderland,Southampton,2,3.2,3.3,2.45
+7/30/13,West Ham,Newcastle,3,3,3.4,2.5
+8/6/13,Chelsea,Man United,1,1.73,3.8,5.5
+8/6/13,Swansea,Tottenham,3,3.25,3.4,2.38
+8/6/13,West Brom,Everton,2,3.5,3.4,2.25
+8/6/13,Crystal Palace,Hull,1,2.5,3.2,3.2
+8/6/13,Liverpool,Everton,1,1.83,3.9,4.5
+8/6/13,Man United,Cardiff,1,1.25,6.5,15
+8/6/13,Norwich,Newcastle,2,2.7,3.4,2.8
+8/13/13,Southampton,Arsenal,2,4.33,3.5,1.95
+8/13/13,Swansea,Fulham,1,1.75,3.75,5.25
+8/13/13,Aston Villa,West Brom,1,2.6,3.3,3
+8/13/13,Chelsea,West Ham,2,1.18,8,19
+8/13/13,Sunderland,Stoke,1,2.1,3.4,3.9
+8/13/13,Tottenham,Man City,3,3.75,3.75,2.05
+8/13/13,Cardiff,Norwich,1,2.3,3.4,3.4
+8/20/13,Everton,Aston Villa,1,1.53,4.33,7
+8/20/13,Fulham,Southampton,3,3.6,3.4,2.2
+8/20/13,Hull,Tottenham,2,4,3.5,2.05
+8/20/13,Newcastle,Sunderland,3,1.95,3.5,4.33
+8/20/13,Stoke,Man United,1,7,4,1.57
+8/20/13,West Ham,Swansea,1,2.9,3.4,2.6
+8/20/13,Arsenal,Crystal Palace,1,1.22,7,16
+8/27/13,West Brom,Liverpool,2,5.75,4.33,1.62
+8/27/13,Man City,Chelsea,3,1.85,3.8,4.5
+8/27/13,Aston Villa,West Ham,3,2.1,3.5,3.8
+8/27/13,Chelsea,Newcastle,1,1.25,6.25,15
+8/27/13,Crystal Palace,West Brom,1,2.6,3.3,3
+8/27/13,Liverpool,Arsenal,1,2.2,3.6,3.4
+8/27/13,Norwich,Man City,2,9,5.5,1.36
+9/3/13,Southampton,Stoke,2,1.55,4,7.5
+9/3/13,Sunderland,Hull,3,2.15,3.4,3.8
+9/3/13,Swansea,Cardiff,1,1.85,3.6,4.75
+9/3/13,Man United,Fulham,2,1.2,7,19
+9/3/13,Tottenham,Everton,1,2.1,3.5,3.75
+9/3/13,Cardiff,Aston Villa,2,2.5,3.4,3
+9/3/13,Hull,Southampton,3,3,3.25,2.6
+9/10/13,West Brom,Chelsea,2,7.5,4.5,1.5
+9/10/13,West Ham,Norwich,1,2.05,3.5,4
+9/10/13,Arsenal,Man United,2,2.15,3.5,3.6
+9/10/13,Fulham,Liverpool,3,8,5.25,1.4
+9/10/13,Newcastle,Tottenham,3,3.3,3.5,2.3
+9/10/13,Stoke,Swansea,2,2.7,3.25,2.9
+9/10/13,Arsenal,Sunderland,1,1.33,5.5,11
+9/17/13,Cardiff,Hull,3,2.75,3.2,2.88
+9/17/13,Chelsea,Everton,1,1.57,4,7
+9/17/13,Crystal Palace,Man United,3,6.5,4,1.6
+9/17/13,Man City,Stoke,1,1.18,8,19
+9/17/13,West Brom,Fulham,2,1.8,3.9,4.75
+9/17/13,West Ham,Southampton,1,3.2,3.4,2.4
+9/17/13,Liverpool,Swansea,1,1.3,5.75,12
+9/24/13,Newcastle,Aston Villa,1,2.1,3.4,3.9
+9/24/13,Norwich,Tottenham,1,3.8,3.5,2.1
+9/24/13,Everton,West Ham,1,1.53,4.2,7.5
+9/24/13,Fulham,Chelsea,3,8,4.75,1.45
+9/24/13,Hull,Newcastle,3,2.45,3.2,3.3
+9/24/13,Southampton,Liverpool,3,3.75,3.75,2.05
+9/24/13,Stoke,Arsenal,1,5.5,3.8,1.73
+10/1/13,Aston Villa,Norwich,1,2.1,3.4,3.9
+10/1/13,Swansea,Crystal Palace,2,1.85,3.5,5
+10/1/13,Tottenham,Cardiff,1,1.33,5.25,12
+10/1/13,Cardiff,Fulham,1,2.35,3.5,3.2
+10/1/13,Chelsea,Tottenham,1,1.57,4,7
+10/1/13,Crystal Palace,Southampton,3,3.9,3.3,2.15
+10/1/13,Norwich,Stoke,2,2.25,3.3,3.6
+10/8/13,West Brom,Man United,3,5,3.6,1.83
+10/8/13,Aston Villa,Chelsea,1,7,4.33,1.53
+10/8/13,Everton,Cardiff,1,1.36,5,11
+10/8/13,Fulham,Newcastle,1,2.9,3.4,2.6
+10/8/13,Hull,Man City,3,6.5,4.33,1.57
+10/8/13,Southampton,Norwich,1,1.62,4,6.5
+10/8/13,Stoke,West Ham,1,2.25,3.3,3.6
+10/15/13,Sunderland,Crystal Palace,2,2.15,3.3,3.9
+10/15/13,Swansea,West Brom,3,1.95,3.6,4.33
+10/15/13,Man United,Liverpool,3,2.5,3.6,2.9
+10/15/13,Tottenham,Arsenal,3,3.1,3.4,2.45
+10/15/13,Cardiff,Liverpool,3,9.5,5.25,1.36
+10/15/13,Chelsea,Arsenal,1,1.85,3.6,4.75
+10/15/13,Everton,Swansea,1,1.67,3.9,6
+10/22/13,Hull,West Brom,1,2.25,3.3,3.6
+10/22/13,Man City,Fulham,1,1.17,9,17
+10/22/13,Newcastle,Crystal Palace,1,1.85,3.6,4.75
+10/22/13,Norwich,Sunderland,1,2.2,3.3,3.75
+10/22/13,West Ham,Man United,3,4.5,3.6,1.91
+10/22/13,Aston Villa,Stoke,3,2.2,3.3,3.75
+10/22/13,Tottenham,Southampton,1,2.25,3.4,3.5
+10/29/13,Arsenal,Swansea,2,1.57,4.2,6.5
+10/29/13,Man United,Man City,3,3.5,3.6,2.15
+10/29/13,Newcastle,Everton,3,3.5,3.4,2.25
+10/29/13,Liverpool,Sunderland,1,1.17,9,19
+10/29/13,West Ham,Hull,1,2.4,3.3,3.3
+10/29/13,Arsenal,Man City,2,3.6,3.5,2.15
+10/29/13,Crystal Palace,Chelsea,1,10,4.75,1.4
+11/5/13,Man United,Aston Villa,1,1.45,4.75,8
+11/5/13,Southampton,Newcastle,1,1.75,3.8,5.25
+11/5/13,Stoke,Hull,1,2.15,3.3,3.9
+11/5/13,Swansea,Norwich,1,1.73,3.9,5.25
+11/5/13,West Brom,Cardiff,2,1.83,3.75,4.75
+11/5/13,Fulham,Everton,3,5,3.75,1.8
+11/5/13,Liverpool,Tottenham,1,1.48,4.75,7.5
+11/12/13,Sunderland,West Ham,3,2.3,3.3,3.5
+11/12/13,Aston Villa,Fulham,3,2.05,3.5,4
+11/12/13,Cardiff,Crystal Palace,3,2.45,3.25,3.25
+11/12/13,Chelsea,Stoke,1,1.29,6,13
+11/12/13,Hull,Swansea,1,2.75,3.3,2.8
+11/12/13,Man City,Southampton,1,1.33,5.75,10
+11/12/13,Newcastle,Man United,3,4.2,3.7,1.95
+11/19/13,Norwich,West Brom,3,2.4,3.3,3.25
+11/19/13,Everton,Arsenal,1,2.5,3.4,3
+11/19/13,West Ham,Liverpool,3,9,5,1.4
+11/19/13,Tottenham,Sunderland,1,1.57,4.2,6.5
+11/19/13,Crystal Palace,Aston Villa,1,2.15,3.3,3.9
+11/19/13,Fulham,Norwich,1,2.15,3.5,3.6
+11/19/13,Southampton,Cardiff,3,1.45,4.75,8
+11/26/13,Stoke,Newcastle,1,2.1,3.4,3.9
+11/26/13,Sunderland,Everton,3,4.75,3.7,1.83
+11/26/13,West Brom,Tottenham,2,3.1,3.6,2.38
+11/26/13,Liverpool,Man City,1,2.45,3.7,2.9
+11/26/13,Swansea,Chelsea,3,5,3.6,1.83
+11/26/13,Arsenal,West Ham,1,1.4,5,9
+11/26/13,Everton,Crystal Palace,3,1.4,4.75,10
+12/3/13,Man City,Sunderland,2,1.17,9,17
+12/3/13,Aston Villa,Southampton,2,3.4,3.4,2.1
+12/3/13,Cardiff,Stoke,2,2.38,3.2,3
+12/3/13,Chelsea,Sunderland,3,1.18,7,13
+12/3/13,Newcastle,Swansea,3,2.63,3.3,2.6
+12/3/13,Tottenham,Fulham,1,1.5,4.2,6.5
+12/3/13,West Ham,Crystal Palace,3,2.2,3.2,3.4
+12/10/13,Everton,Man United,1,2.4,3.4,2.8
+12/10/13,Hull,Arsenal,3,4.5,3.6,1.8
+12/10/13,Norwich,Liverpool,3,8.5,5,1.33
+12/10/13,Man City,West Brom,1,1.2,7,11
+12/10/13,Fulham,Hull,2,2.3,3.4,3.4
+12/10/13,Man United,Norwich,1,1.36,5.25,9.5
+12/10/13,Southampton,Everton,1,2.8,3.5,2.6
+12/17/13,Stoke,Tottenham,3,3.2,3.4,2.38
+12/17/13,Swansea,Aston Villa,1,1.7,3.75,6
+12/17/13,West Brom,West Ham,1,1.91,3.75,4.33
+12/17/13,Crystal Palace,Man City,3,7.5,5,1.44
+12/17/13,Liverpool,Chelsea,3,1.67,4.2,5.25
+12/17/13,Sunderland,Cardiff,1,1.91,3.75,4.33
+12/17/13,Arsenal,Newcastle,1,1.29,6,12
+12/24/13,Aston Villa,Hull,1,2.5,3.3,3.1
+12/24/13,Man United,Sunderland,3,1.36,5.75,8.5
+12/24/13,Newcastle,Cardiff,1,2.05,3.6,3.8
+12/24/13,Stoke,Fulham,1,2.3,3.6,3.25
+12/24/13,Swansea,Southampton,3,2.5,3.4,3
+12/24/13,West Ham,Tottenham,1,4.33,3.75,1.91
+12/24/13,Everton,Man City,3,5,4,1.75
+12/31/13,Arsenal,West Brom,1,1.29,6,13
+12/31/13,Chelsea,Norwich,2,1.2,7.5,17
+12/31/13,Crystal Palace,Liverpool,2,9,5,1.4
+12/31/13,Man United,Hull,1,1.36,5.5,9
+12/31/13,Man City,Aston Villa,1,1.14,9.5,21
+12/31/13,Sunderland,West Brom,1,2.1,3.2,4.2
+12/31/13,Cardiff,Chelsea,3,8,4.75,1.44
+1/7/14,Fulham,Crystal Palace,2,2.63,3.5,2.8
+1/7/14,Hull,Everton,3,4,3.6,2
+1/7/14,Liverpool,Newcastle,1,1.22,7.5,13
+1/7/14,Man City,West Ham,1,1.17,9,17
+1/7/14,Norwich,Arsenal,3,4.5,3.8,1.85
+1/7/14,Southampton,Man United,2,2.63,3.5,2.8
+1/7/14,Sunderland,Swansea,3,2.3,3.4,3.4
+1/14/14,Tottenham,Aston Villa,1,1.5,4.5,7.5
+1/14/14,West Brom,Stoke,3,2.1,3.6,3.75
+1/14/14,Bournemouth,Aston Villa,3,2,3.6,4
+1/14/14,Chelsea,Swansea,2,1.36,5,11
+1/14/14,Everton,Watford,2,1.7,3.9,5.5
+1/14/14,Leicester,Sunderland,1,1.95,3.5,4.33
+1/14/14,Man United,Tottenham,1,1.65,4,6
+1/21/14,Norwich,Crystal Palace,3,2.55,3.3,3
+1/21/14,Arsenal,West Ham,3,1.29,6,12
+1/21/14,Newcastle,Southampton,2,2.88,3.3,2.7
+1/21/14,Stoke,Liverpool,3,3.4,3.4,2.3
+1/21/14,West Brom,Man City,3,5.75,4,1.67
+1/21/14,Aston Villa,Man United,3,5.5,3.8,1.73
+1/21/14,Southampton,Everton,3,1.95,3.6,4.33
+1/28/14,Sunderland,Norwich,3,2.5,3.3,3.1
+1/28/14,Swansea,Newcastle,1,1.95,3.6,4.33
+1/28/14,Tottenham,Stoke,2,1.8,3.75,5
+1/28/14,Watford,West Brom,2,2.3,3.4,3.4
+1/28/14,West Ham,Leicester,3,2.25,3.5,3.4
+1/28/14,Crystal Palace,Arsenal,3,5.25,3.9,1.73
+1/28/14,Man City,Chelsea,1,2.1,3.5,3.75
+2/4/14,Liverpool,Bournemouth,1,1.45,4.75,8
+2/4/14,Crystal Palace,Aston Villa,1,1.85,3.6,4.75
+2/4/14,Leicester,Tottenham,2,2.63,3.6,2.75
+2/4/14,Man United,Newcastle,2,1.36,5.25,10
+2/4/14,Norwich,Stoke,2,2.3,3.3,3.5
+2/4/14,Sunderland,Swansea,2,4,3.4,2.1
+2/4/14,West Ham,Bournemouth,3,2.38,3.4,3.2
+2/11/14,Everton,Man City,3,5,4,1.73
+2/11/14,Watford,Southampton,2,2.8,3.3,2.75
+2/11/14,West Brom,Chelsea,3,6.5,4,1.62
+2/11/14,Arsenal,Liverpool,2,1.75,4,5
+2/11/14,Aston Villa,Sunderland,2,1.91,3.5,4.75
+2/11/14,Bournemouth,Leicester,2,2.2,3.6,3.4
+2/11/14,Chelsea,Crystal Palace,3,1.36,5,11
+2/18/14,Liverpool,West Ham,3,1.36,5.5,9
+2/18/14,Man City,Watford,1,1.2,8,15
+2/18/14,Newcastle,Arsenal,3,6,4.2,1.62
+2/18/14,Stoke,West Brom,3,1.95,3.4,4.5
+2/18/14,Tottenham,Everton,2,2,3.5,4.2
+2/18/14,Southampton,Norwich,1,2.05,3.5,4
+2/18/14,Swansea,Man United,1,3.6,3.3,2.25
+2/25/14,Arsenal,Stoke,1,1.29,6,12
+2/25/14,Crystal Palace,Man City,3,5.5,4.2,1.67
+2/25/14,Everton,Chelsea,1,4,3.6,2
+2/25/14,Man United,Liverpool,1,2,3.4,4.33
+2/25/14,Norwich,Bournemouth,1,2.4,3.4,3.2
+2/25/14,Watford,Swansea,1,2.75,3.4,2.75
+2/25/14,West Brom,Southampton,2,3.2,3.2,2.5
+3/4/14,Leicester,Aston Villa,1,1.91,3.75,4.33
+3/4/14,Sunderland,Tottenham,3,4.33,3.6,1.95
+3/4/14,West Ham,Newcastle,1,2.25,3.5,3.4
+3/4/14,Aston Villa,West Brom,3,2.3,3.25,3.5
+3/4/14,Bournemouth,Sunderland,1,1.7,4,5.5
+3/4/14,Chelsea,Arsenal,1,2.45,3.5,3
+3/4/14,Man City,West Ham,3,1.29,6.5,11
+3/11/14,Newcastle,Watford,3,2.5,3.3,3.1
+3/11/14,Stoke,Leicester,2,2.5,3.4,3
+3/11/14,Swansea,Everton,2,2.3,3.4,3.4
+3/11/14,Liverpool,Norwich,2,1.67,4,5.75
+3/11/14,Southampton,Man United,3,3.1,3.3,2.5
+3/11/14,Tottenham,Crystal Palace,1,2,3.6,4
+3/11/14,Leicester,Arsenal,3,4.5,4,1.8
+3/18/14,Liverpool,Aston Villa,1,1.53,4.33,7
+3/18/14,Man United,Sunderland,1,1.2,7.5,16
+3/18/14,Newcastle,Chelsea,2,6,4.2,1.62
+3/18/14,Southampton,Swansea,1,2.05,3.4,4.2
+3/18/14,Stoke,Bournemouth,1,2.55,3.3,3
+3/18/14,Tottenham,Man City,1,4.2,3.8,1.91
+3/18/14,West Ham,Norwich,2,2.25,3.5,3.4
+3/25/14,Watford,Crystal Palace,3,2.5,3.3,3.1
+3/25/14,West Brom,Everton,3,3.1,3.3,2.5
+3/25/14,Aston Villa,Stoke,3,2.5,3.3,3.1
+3/25/14,Bournemouth,Watford,2,2.1,3.5,3.8
+3/25/14,Chelsea,Southampton,3,1.83,3.7,4.8
+3/25/14,Crystal Palace,West Brom,1,1.83,3.6,5
+3/25/14,Man City,Newcastle,1,1.25,7,13
+4/1/14,Norwich,Leicester,3,2.3,3.5,3.3
+4/1/14,Sunderland,West Ham,2,3.2,3.4,2.4
+4/1/14,Arsenal,Man United,1,2,3.8,3.8
+4/1/14,Everton,Liverpool,2,2.7,3.4,2.8
+4/1/14,Swansea,Tottenham,2,2.75,3.25,2.8
+4/1/14,Chelsea,Aston Villa,1,1.33,5.75,10
+4/1/14,Crystal Palace,West Ham,3,2,3.6,4
+4/8/14,Everton,Man United,3,3.25,3.4,2.38
+4/8/14,Man City,Bournemouth,1,1.33,5.75,10
+4/8/14,Southampton,Leicester,2,1.75,4,5
+4/8/14,Tottenham,Liverpool,2,2.5,3.5,3
+4/8/14,Watford,Arsenal,3,6,4.2,1.62
+4/8/14,West Brom,Sunderland,1,2.05,3.4,4.2
+4/8/14,Newcastle,Norwich,1,2.6,3.4,2.88
+4/15/14,Swansea,Stoke,3,2.05,3.4,4.2
+4/15/14,Arsenal,Everton,1,1.44,4.75,8
+4/15/14,Aston Villa,Swansea,3,3,3.3,2.6
+4/15/14,Leicester,Crystal Palace,1,2.2,3.6,3.4
+4/15/14,Norwich,West Brom,3,2,3.5,4.2
+4/15/14,Stoke,Watford,3,2.1,3.3,4
+4/15/14,West Ham,Chelsea,1,4,3.8,1.95
+4/22/14,Bournemouth,Tottenham,3,3.4,3.5,2.25
+4/22/14,Liverpool,Southampton,2,2.05,3.6,3.8
+4/22/14,Man United,Man City,2,2.6,3.5,2.8
+4/22/14,Sunderland,Newcastle,1,2.6,3.4,2.9
+4/22/14,Chelsea,Liverpool,3,2.1,3.5,3.75
+4/22/14,Crystal Palace,Man United,2,3.8,3.5,2.1
+4/22/14,Man City,Norwich,1,1.29,6,12
+4/29/14,Newcastle,Stoke,2,2.4,3.4,3.2
+4/29/14,Swansea,Arsenal,3,5,4,1.75
+4/29/14,Watford,West Ham,1,2.6,3.4,2.9
+4/29/14,West Brom,Leicester,3,2.9,3.4,2.6
+4/29/14,Everton,Sunderland,1,1.5,4.5,7.5
+4/29/14,Southampton,Bournemouth,1,1.55,4.33,6.5
+4/29/14,Tottenham,Aston Villa,1,1.44,4.75,8
+5/6/14,Bournemouth,Newcastle,3,2.25,3.5,3.4
+5/6/14,Leicester,Watford,1,1.85,3.8,4.5
+5/6/14,Man United,West Brom,1,1.33,5.25,12
+5/6/14,Norwich,Swansea,1,2.45,3.4,3.1
+5/6/14,Stoke,Chelsea,1,3.8,3.6,2.05
+5/6/14,Sunderland,Southampton,3,4.75,3.8,1.8
+5/6/14,West Ham,Everton,2,2.6,3.5,2.8
+5/13/14,Arsenal,Tottenham,2,1.73,4,5
+5/13/14,Aston Villa,Man City,2,7.5,5,1.44
+5/13/14,Liverpool,Crystal Palace,3,1.67,3.8,6
+5/13/14,Chelsea,Norwich,1,1.4,5,9
+5/13/14,Everton,Aston Villa,1,1.57,4.2,6.5
+5/13/14,Man City,Liverpool,3,1.7,4,5.5
+5/13/14,Newcastle,Leicester,3,2.88,3.6,2.5
+5/20/14,Southampton,Stoke,3,1.57,4,7
+5/20/14,Swansea,Bournemouth,2,1.91,3.6,4.5
+5/20/14,Watford,Man United,3,4.33,3.4,2
+5/20/14,West Brom,Arsenal,1,7,4.33,1.53
+5/20/14,Tottenham,West Ham,1,1.57,4.2,6.5
+5/20/14,Crystal Palace,Sunderland,3,1.57,4,7
+5/20/14,Aston Villa,Watford,3,2.75,3.3,2.8
+5/27/14,Bournemouth,Everton,2,2.9,3.6,2.5
+5/27/14,Crystal Palace,Newcastle,1,1.7,3.9,5.5
+5/27/14,Leicester,Man United,2,3.1,3.5,2.4
+5/27/14,Man City,Southampton,1,1.6,4.33,6
+5/27/14,Sunderland,Stoke,1,3.2,3.3,2.45
+5/27/14,Liverpool,Swansea,1,1.44,4.75,8
+5/27/14,Norwich,Arsenal,2,6,4.2,1.62
+6/3/14,Tottenham,Chelsea,2,2.6,3.4,2.9
+6/3/14,West Ham,West Brom,2,2.05,3.5,4
+6/3/14,Arsenal,Sunderland,1,1.29,6,13
+6/3/14,Chelsea,Bournemouth,3,1.36,5.25,9.5
+6/3/14,Man United,West Ham,2,1.44,4.5,9
+6/3/14,Southampton,Aston Villa,2,1.5,4.5,7.5
+6/3/14,Stoke,Man City,1,5.25,4,1.7
+6/10/14,Swansea,Leicester,3,2.7,3.4,2.75
+6/10/14,Watford,Norwich,1,2.15,3.5,3.6
+6/10/14,West Brom,Tottenham,2,4.75,3.6,1.85
+6/10/14,Newcastle,Liverpool,1,5.75,4.33,1.62
+6/10/14,Everton,Crystal Palace,2,2.1,3.6,3.75
+6/10/14,Bournemouth,Man United,1,3.4,3.4,2.3
+6/10/14,Crystal Palace,Southampton,1,2.6,3.3,3
+6/17/14,Man City,Swansea,1,1.3,6,11
+6/17/14,Norwich,Everton,2,2.9,3.5,2.55
+6/17/14,Sunderland,Watford,3,2.9,3.3,2.63
+6/17/14,West Ham,Stoke,2,2.63,3.3,2.9
+6/17/14,Aston Villa,Arsenal,3,6.5,4.2,1.57
+6/17/14,Liverpool,West Brom,2,1.4,4.75,10
+6/17/14,Tottenham,Newcastle,3,1.36,5.5,9
+6/24/14,Leicester,Chelsea,1,3.2,3.5,2.35
+6/24/14,Chelsea,Sunderland,1,1.33,5.25,12
+6/24/14,Everton,Leicester,3,2.1,3.75,3.6
+6/24/14,Man United,Norwich,3,1.45,4.5,8.5
+6/24/14,Newcastle,Aston Villa,2,2.05,3.5,4
+6/24/14,Southampton,Tottenham,3,2.7,3.4,2.8
+6/24/14,Stoke,Crystal Palace,3,2.5,3.2,3.2
+7/1/14,West Brom,Bournemouth,3,2.55,3.3,3
+7/1/14,Swansea,West Ham,2,2.1,3.4,3.9
+7/1/14,Watford,Liverpool,1,4.2,3.6,1.95
+7/1/14,Arsenal,Man City,1,2.45,3.5,3
+7/1/14,Aston Villa,West Ham,2,2.63,3.25,2.75
+7/1/14,Bournemouth,Crystal Palace,2,2.4,3.3,3
+7/1/14,Chelsea,Watford,2,1.44,4.5,7.5
+7/8/14,Liverpool,Leicester,1,1.91,3.8,3.8
+7/8/14,Man City,Sunderland,1,1.2,7,13
+7/8/14,Newcastle,Everton,3,3.2,3.5,2.2
+7/8/14,Southampton,Arsenal,1,3.6,3.5,2.05
+7/8/14,Stoke,Man United,1,3.25,3.2,2.3
+7/8/14,Swansea,West Brom,1,1.91,3.4,4.5
+7/8/14,Tottenham,Norwich,1,1.4,4.75,8
+7/15/14,Arsenal,Bournemouth,1,1.44,4.75,8
+7/15/14,Crystal Palace,Swansea,2,2.1,3.4,4
+7/15/14,Everton,Stoke,3,1.95,3.6,4.2
+7/15/14,Man United,Chelsea,2,2.6,3.3,3
+7/15/14,Norwich,Aston Villa,1,2.05,3.6,3.8
+7/15/14,Watford,Tottenham,3,3.75,3.5,2.1
+7/15/14,West Brom,Newcastle,1,2.2,3.25,3.75
+7/22/14,West Ham,Southampton,1,3.6,3.4,2.2
+7/22/14,Leicester,Man City,2,4.33,4,1.85
+7/22/14,Sunderland,Liverpool,3,5.5,3.9,1.7
+7/22/14,Arsenal,Newcastle,1,1.29,6.5,11
+7/22/14,Leicester,Bournemouth,2,1.91,3.75,4.33
+7/22/14,Man United,Swansea,1,1.55,4.2,7
+7/22/14,Norwich,Southampton,1,3.2,3.4,2.4
+7/29/14,Sunderland,Aston Villa,1,2.5,3.25,3.2
+7/29/14,Watford,Man City,3,5,4,1.75
+7/29/14,West Brom,Stoke,1,2.8,3.2,2.8
+7/29/14,West Ham,Liverpool,1,4,3.5,2.05
+7/29/14,Crystal Palace,Chelsea,3,3.8,3.5,2.1
+7/29/14,Everton,Tottenham,2,2.8,3.5,2.63
+7/29/14,Aston Villa,Crystal Palace,1,3.2,3.25,2.45
+8/5/14,Bournemouth,West Ham,3,2,3.6,4
+8/5/14,Newcastle,Man United,2,5,3.7,1.8
+8/5/14,Chelsea,West Brom,2,1.44,4.5,9
+8/5/14,Liverpool,Arsenal,2,2.88,3.4,2.6
+8/5/14,Man City,Everton,2,1.53,4.75,6
+8/5/14,Southampton,Watford,1,1.95,3.5,4.33
+8/5/14,Stoke,Norwich,1,2.05,3.3,4.2
+8/12/14,Swansea,Sunderland,3,1.8,3.6,5.25
+8/12/14,Tottenham,Leicester,3,1.75,3.8,5.25
+8/12/14,Aston Villa,Leicester,2,3.6,3.4,2.2
+8/12/14,Bournemouth,Norwich,1,1.91,3.6,4.5
+8/12/14,Chelsea,Everton,2,1.83,3.75,4.75
+8/12/14,Man City,Crystal Palace,1,1.4,5.25,8.5
+8/12/14,Newcastle,West Ham,1,2.5,3.4,3
+8/19/14,Southampton,West Brom,1,1.73,3.75,5.5
+8/19/14,Tottenham,Sunderland,1,1.36,5.25,9.5
+8/19/14,Liverpool,Man United,3,2.3,3.25,3.5
+8/19/14,Stoke,Arsenal,2,4.33,3.6,1.95
+8/19/14,Swansea,Watford,1,2.38,3.25,3.4
+8/19/14,Crystal Palace,Tottenham,3,3.6,3.5,2.15
+8/19/14,Leicester,Stoke,1,2.1,3.5,3.8
+8/26/14,Man United,Southampton,3,1.91,3.5,4.75
+8/26/14,Norwich,Liverpool,3,4.33,3.5,1.95
+8/26/14,Sunderland,Bournemouth,2,3,3.4,2.5
+8/26/14,Watford,Newcastle,1,2.05,3.5,4
+8/26/14,West Brom,Aston Villa,2,2.1,3.3,4
+8/26/14,West Ham,Man City,2,5,4,1.73
+8/26/14,Arsenal,Chelsea,3,2.1,3.5,3.9
+9/2/14,Everton,Swansea,3,1.73,3.8,5.5
+9/2/14,Arsenal,Southampton,2,1.75,3.75,5.25
+9/2/14,Crystal Palace,Bournemouth,3,2.45,3.3,3.2
+9/2/14,Leicester,Liverpool,1,2.63,3.4,2.88
+9/2/14,Man United,Stoke,1,1.7,3.75,5.75
+9/2/14,Norwich,Tottenham,3,4.5,3.75,1.85
+9/2/14,Sunderland,Man City,3,8,4.75,1.45
+9/9/14,West Brom,Swansea,2,2.63,3.1,3.1
+9/9/14,West Ham,Aston Villa,1,1.91,3.5,4.75
+9/9/14,Everton,Newcastle,1,1.65,4.2,5.5
+9/9/14,Watford,Chelsea,2,4.33,3.5,1.95
+9/9/14,Aston Villa,Norwich,1,2.45,3.2,3.3
+9/9/14,Liverpool,Sunderland,2,1.44,4.75,8.5
+9/9/14,Man City,Leicester,3,1.62,4.2,6
+9/16/14,Newcastle,West Brom,1,2.15,3.4,3.8
+9/16/14,Southampton,West Ham,1,1.73,3.8,5.5
+9/16/14,Stoke,Everton,3,2.7,3.4,2.8
+9/16/14,Swansea,Crystal Palace,2,2.25,3.3,3.6
+9/16/14,Tottenham,Watford,1,1.5,4.33,8
+9/16/14,Bournemouth,Arsenal,3,3.8,3.5,2.1
+9/16/14,Chelsea,Man United,2,2.15,3.3,3.9
+9/23/14,Bournemouth,Stoke,3,2.05,3.4,4.1
+9/23/14,Chelsea,Newcastle,1,1.44,4.75,8
+9/23/14,Crystal Palace,Watford,3,2.25,3.3,3.6
+9/23/14,Everton,West Brom,3,1.53,4.2,7.5
+9/23/14,Norwich,West Ham,2,2.38,3.4,3.25
+9/23/14,Sunderland,Man United,1,5.25,3.75,1.75
+9/23/14,Swansea,Southampton,3,3.2,3.25,2.5
+9/30/14,Arsenal,Leicester,1,1.75,4,5
+9/30/14,Aston Villa,Liverpool,3,4.75,3.6,1.85
+9/30/14,Man City,Tottenham,3,2.1,3.75,3.6
+9/30/14,Leicester,Norwich,1,1.5,4.33,6
+9/30/14,Southampton,Chelsea,3,2.8,3.25,2.5
+9/30/14,Stoke,Aston Villa,1,1.62,3.75,5.5
+9/30/14,Watford,Bournemouth,2,2.38,3.25,3
+10/7/14,West Brom,Crystal Palace,1,2.6,3.1,2.8
+10/7/14,West Ham,Sunderland,1,1.8,3.5,4.5
+10/7/14,Tottenham,Swansea,1,1.4,4.2,9
+10/7/14,Man United,Arsenal,1,3,3.25,2.38
+10/7/14,Aston Villa,Everton,3,4.5,3.6,1.91
+10/7/14,Bournemouth,Southampton,1,2.9,3.25,2.7
+10/7/14,Leicester,West Brom,2,1.73,3.8,5.5
+10/14/14,Norwich,Chelsea,3,5.25,4,1.7
+10/14/14,Sunderland,Crystal Palace,2,2.5,3.3,3.1
+10/14/14,Arsenal,Swansea,3,1.36,5.25,10
+10/14/14,Liverpool,Man City,1,2.63,3.4,2.88
+10/14/14,Man United,Watford,1,1.67,3.8,6
+10/14/14,Stoke,Newcastle,1,2,3.5,4.2
+10/14/14,West Ham,Tottenham,1,4,3.6,2
+10/21/14,Chelsea,Stoke,2,1.5,4.5,7.5
+10/21/14,Everton,West Ham,3,1.73,4,5
+10/21/14,Man City,Aston Villa,1,1.22,7,15
+10/21/14,Newcastle,Bournemouth,3,2.63,3.4,2.88
+10/21/14,Southampton,Sunderland,2,1.6,4,6.5
+10/21/14,Swansea,Norwich,1,2.05,3.5,4
+10/21/14,Tottenham,Arsenal,2,2.38,3.4,3.25
+10/28/14,Watford,Leicester,3,3,3.4,2.55
+10/28/14,Crystal Palace,Liverpool,3,3.8,3.5,2.1
+10/28/14,West Brom,Man United,1,4.33,3.4,2
+10/28/14,Bournemouth,Swansea,1,1.95,3.5,4.33
+10/28/14,Norwich,Man City,2,6,4.2,1.6
+10/28/14,Stoke,Southampton,3,2.7,3.2,2.9
+10/28/14,Aston Villa,Tottenham,3,7.5,4.5,1.5
+11/4/14,Leicester,Newcastle,1,1.57,4.33,6.25
+11/4/14,Chelsea,West Ham,2,1.75,3.8,5.25
+11/4/14,Crystal Palace,Leicester,3,3,3.4,2.5
+11/4/14,Everton,Arsenal,3,2.7,3.5,2.7
+11/4/14,Swansea,Aston Villa,1,1.67,3.8,6
+11/4/14,Watford,Stoke,3,2.4,3.25,3.3
+11/4/14,West Brom,Norwich,3,2.25,3.3,3.6
+11/11/14,Man City,Man United,3,1.83,3.75,4.75
+11/11/14,Newcastle,Sunderland,2,2.1,3.5,3.8
+11/11/14,Southampton,Liverpool,1,2.63,3.4,2.88
+11/11/14,Tottenham,Bournemouth,1,1.53,4.33,7
+11/11/14,Arsenal,Watford,1,1.36,5.25,10
+11/11/14,Aston Villa,Chelsea,3,6.5,4.33,1.57
+11/11/14,Bournemouth,Man City,3,3.75,3.6,2.1
+11/18/14,Liverpool,Tottenham,2,2.5,3.4,3
+11/18/14,Norwich,Newcastle,1,2.2,3.4,3.6
+11/18/14,Stoke,Swansea,2,2.2,3.4,3.6
+11/18/14,Sunderland,West Brom,2,2.1,3.3,4
+11/18/14,West Ham,Crystal Palace,2,1.95,3.6,4.2
+11/18/14,Leicester,Southampton,1,2.25,3.4,3.5
+11/18/14,Man United,Everton,1,2.1,3.5,3.75
+11/25/14,Aston Villa,Bournemouth,3,3.4,3.2,2.2
+11/25/14,Crystal Palace,Norwich,1,2.05,3.4,3.6
+11/25/14,Man City,West Brom,1,1.33,5,9
+11/25/14,Southampton,Newcastle,1,1.53,4,6
+11/25/14,Swansea,Chelsea,1,3.75,3.4,2
+11/25/14,Watford,Everton,2,3.4,3.3,2.15
+11/25/14,West Ham,Arsenal,2,3.6,3.5,2
+12/2/14,Liverpool,Stoke,1,1.55,4,5.75
+12/2/14,Sunderland,Leicester,3,3.4,3.4,2.1
+12/2/14,Tottenham,Man United,1,1.91,3.5,4
+12/2/14,Crystal Palace,Everton,2,2.9,3.4,2.6
+12/2/14,Chelsea,Man City,3,2.75,3.4,2.7
+12/2/14,Everton,Southampton,2,2.7,3.4,2.8
+12/2/14,Man United,Aston Villa,1,1.22,7,17
+12/9/14,Newcastle,Swansea,1,2.3,3.4,3.4
+12/9/14,Norwich,Sunderland,3,2.4,3.3,3.25
+12/9/14,West Brom,Watford,3,2.4,3.2,3.4
+12/9/14,Arsenal,Crystal Palace,2,1.33,5.75,9.5
+12/9/14,Bournemouth,Liverpool,3,3.6,3.5,2.15
+12/9/14,Leicester,West Ham,2,1.95,3.6,4.2
+12/9/14,Stoke,Tottenham,3,4.5,3.75,1.85
+12/16/14,Newcastle,Man City,2,6,4.5,1.57
+12/16/14,Liverpool,Everton,1,1.73,4,5
+12/16/14,Man United,Crystal Palace,1,1.53,4.33,7
+12/16/14,West Ham,Watford,1,1.57,4.33,6.5
+12/16/14,Arsenal,West Brom,1,1.29,6,13
+12/16/14,Aston Villa,Southampton,3,7.5,4.2,1.53
+12/16/14,Bournemouth,Chelsea,3,3.1,3.5,2.4
+12/23/14,Liverpool,Newcastle,2,1.57,4.5,6
+12/23/14,Man City,Stoke,1,1.3,6,11
+12/23/14,Leicester,Swansea,1,1.75,3.7,5.5
+12/23/14,Sunderland,Arsenal,2,4.5,4,1.8
+12/23/14,Tottenham,West Brom,2,1.22,7,15
+12/23/14,Arsenal,Norwich,1,1.29,6.5,11
+12/23/14,Everton,Bournemouth,1,2,3.8,3.8
+12/30/14,Newcastle,Crystal Palace,1,2,3.6,4
+12/30/14,Stoke,Sunderland,2,2.75,3.3,2.8
+12/30/14,Watford,Aston Villa,1,1.7,3.8,5.75
+12/30/14,West Brom,West Ham,3,4,3.4,2.1
+12/30/14,Man United,Leicester,2,2.1,3.4,3.9
+12/30/14,Southampton,Man City,1,2.8,3.4,2.7
+12/30/14,Swansea,Liverpool,1,3.1,3.5,2.4
+1/6/15,Chelsea,Tottenham,2,2.75,3.6,2.63
+1/6/15,Aston Villa,Newcastle,2,5.75,4.2,1.65
+1/6/15,Bournemouth,West Brom,2,1.95,3.6,4.2
+1/6/15,Crystal Palace,Stoke,1,2.05,3.5,3.9
+1/6/15,Leicester,Everton,1,1.91,4,4
+1/6/15,Norwich,Man United,3,4.5,3.6,1.91
+1/6/15,Sunderland,Chelsea,1,3,3.5,2.45
+1/13/15,West Ham,Swansea,3,1.44,4.75,8
+1/13/15,Liverpool,Watford,1,1.5,4.5,7.5
+1/13/15,Man City,Arsenal,2,2.5,3.6,2.9
+1/13/15,Tottenham,Southampton,3,2.05,3.6,3.9
+1/13/15,West Ham,Man United,1,3,3.5,2.45
+1/13/15,Liverpool,Chelsea,2,2,3.8,3.8
+1/13/15,Norwich,Watford,1,1.83,3.75,4.75
+1/20/15,Sunderland,Everton,1,1.75,4,5
+1/20/15,Arsenal,Aston Villa,1,1.17,9,17
+1/20/15,Chelsea,Leicester,2,2.3,3.75,3.1
+1/20/15,Everton,Norwich,1,1.8,4,4.5
+1/20/15,Newcastle,Tottenham,1,4.5,4,1.8
+1/20/15,Southampton,Crystal Palace,1,1.36,5.5,9
+1/20/15,Stoke,West Ham,1,3.5,3.6,2.15
+1/27/15,Swansea,Man City,2,6,4.75,1.53
+1/27/15,Watford,Sunderland,2,2.05,3.75,3.7
+1/27/15,West Brom,Liverpool,2,2.4,3.6,3
+1/27/15,Man United,Bournemouth,1,1.67,4.2,5.25
